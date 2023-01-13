@@ -3,7 +3,7 @@
 
 - 🔭 I’m Currently Work As Backend Developer At **GeekyAir**
 
-- 🌱 I’m currently learning **Node.js,React.js**
+- 🌱 I’m Currently learning **Node.js,React.js**
 
 - 💬 Ask me about **Python(Django),Java,JavaScript,HTML,CSS(Bootstrap)**
 
