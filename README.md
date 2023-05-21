@@ -5,7 +5,7 @@
 
 - 🌱 I’m Currently learning **Node.js,React.js**
 
-- 💬 Ask me about **JavaScript(Node.js),Python(Django),Java,HTML,CSS(Bootstrap)**
+- 💬 Ask me about **Python(Django),JavaScript(Node.js),Java,HTML,CSS(Bootstrap)**
 
 - 📫 How to reach me **MarwanKhaledMahran@gmail.com**
 
