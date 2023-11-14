@@ -3,7 +3,7 @@
 
 - 🔭 I’m Currently Work As Backend Developer At **GeekyAir**
 
-- 💬 Ask me about **Python(Django),JavaScript(Node.js,React.js),Java,HTML,CSS(Bootstrap)**
+- 💬 Ask me about **Python(Django,Flask),JavaScript(React.js),Java,HTML,CSS(Bootstrap)**
 
 - 📫 How to reach me **MarwanKhaledMahran@gmail.com**
 
