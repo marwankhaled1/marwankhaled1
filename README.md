@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Khaled</h1>
 <h3 align="center">A Junior Data Engineer</h3>
 
-- 🔭 I’m Currently Work As Backend Developer At **GeekyAir**
+- 🔭 I’m Currently Work As Database Administrator At **GeekyAir**
 
 - 💬 Ask me about **Data Piplines ,Python(Django,Flask), JavaScript(React.js), Java, HTML, CSS(Bootstrap)**
 
